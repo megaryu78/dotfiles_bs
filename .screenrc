@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 # term "xterm-256color"
 term "screen-256color"
-=======
 # GNU Screen configuration file
 # Balaji S. Srinivasan <balajis@stanford.edu>
 #
@@ -132,4 +130,3 @@ screen -t bash 1
 #    %+Lw     - window list from the next window on (-), show window flags (L)
 #    %-0<     - truncation/padding point.  Place this point zero spaces (0)
 #               from the right margin (-).
->>>>>>> d0652eee712d9ac704f8c63febd505bb448b3c42
